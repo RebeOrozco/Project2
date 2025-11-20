@@ -10,6 +10,22 @@ html {
   font-size: 20pt;
 }
 
+body {
+  width: 80vw;
+  min-width: 1000px;
+  margin: 48px auto;
+}
+
+.text{
+  column-count: 2;
+  column-gap: 48px;
+  text-align: justify;
+  ont-family: sans-serif;
+  color: #000000;
+  line-height: 1.4;
+  font-size: 16pt;
+}
+
 
 
 
